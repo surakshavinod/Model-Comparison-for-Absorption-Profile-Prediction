@@ -18,4 +18,5 @@ We used pip to install all relevant packages. If you are not using Google Colab 
 - Suraksha Vinod
 - Tamarin Tandra
 - Boyu Cheng
-* All authors contributed equally to the project.
+
+\* All authors contributed equally to the project.
